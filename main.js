@@ -15,7 +15,7 @@
   \******************/
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
-eval("Promise.all(/*! import() */[__webpack_require__.e(\"webpack_sharing_consume_default_react_react\"), __webpack_require__.e(\"bootstrap_js\")]).then(__webpack_require__.bind(__webpack_require__, /*! ./bootstrap */ \"./bootstrap.js\"));\n\n//# sourceURL=webpack://ui-components/./index.js?");
+eval("Promise.all(/*! import() */[__webpack_require__.e(\"vendors-node_modules_lit_decorators_js-node_modules_lit_index_js\"), __webpack_require__.e(\"webpack_sharing_consume_default_react_react\"), __webpack_require__.e(\"bootstrap_js\")]).then(__webpack_require__.bind(__webpack_require__, /*! ./bootstrap */ \"./bootstrap.js\"));\n\n//# sourceURL=webpack://ui-components/./index.js?");
 
 /***/ })
 
