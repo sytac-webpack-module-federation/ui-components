@@ -9,7 +9,7 @@ export class MyButton extends LitElement {
 
   render() {
     return html`
-        <button>${this.title}</button>
+        <button @click=${() => console.log('Lit button clicked!')}>${this.title}</button>
     `;
   }
 }
